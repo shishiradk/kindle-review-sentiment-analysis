@@ -1,4 +1,4 @@
-```
+
 # 📘 Kindle Review Sentiment Analysis using NLP Techniques
 
 This project performs binary sentiment classification (Positive vs Negative) on Kindle reviews using NLP techniques like Bag of Words (BoW), TF-IDF, and Word2Vec, followed by training with a Naive Bayes classifier.
